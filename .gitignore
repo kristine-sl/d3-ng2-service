@@ -1,11 +1,4 @@
 # Compiled files
-index.js
-index.js.map
-src/**/*.js
-src/**/*.js.map
-esm/**/*.js
-esm/**/*.js.map
-**/*.d.ts
 
 # Logs
 logs
